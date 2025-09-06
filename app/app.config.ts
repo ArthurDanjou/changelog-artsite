@@ -1,5 +1,5 @@
 export default defineAppConfig({
-  repository: 'nuxt/ui',
+  repository: 'arthurdanjou/artsite',
   ui: {
     colors: {
       primary: 'green',
